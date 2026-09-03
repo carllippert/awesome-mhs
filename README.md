@@ -33,6 +33,10 @@ Projects exploring MHS concepts independently. **Not affiliated with or endorsed
 
 - [tongriyaotxt/open-mhs](https://github.com/tongriyaotxt/open-mhs#readme) - Community exploration of MHS concepts.
 - [SCUT-ESA/open-mhs](https://github.com/SCUT-ESA/open-mhs#readme) - Independent MHS-inspired implementation.
+- [Open-MHS](https://github.com/Abenor-Labs/Open-MHS#readme) - Unofficial vendor-neutral driver spec positioned as an open alternative to Anthropic MHS.
+- [mhs-demo](https://github.com/sidman76/mhs-demo#readme) - Demo agent for an MHS-style read/write pattern against simulated lab hardware over MCP.
+- [OpenMHS](https://github.com/Pratyush-exe/OpenMHS#readme) - Unofficial shared spec sketch for language models to discover and operate hardware.
+- [mhs-ics-skills](https://github.com/Ashigo-Research/mhs-ics-skills#readme) - Open Claude agent skills for ICS/OT (ladder logic, Modbus, OPC UA); MHS integration described as in progress.
 
 ## Related Ecosystems
 
