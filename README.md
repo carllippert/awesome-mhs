@@ -38,6 +38,8 @@ Projects exploring MHS concepts independently. **Not affiliated with or endorsed
 - [OpenMHS](https://github.com/Pratyush-exe/OpenMHS#readme) - Unofficial shared spec sketch for language models to discover and operate hardware.
 - [mhs-ics-skills](https://github.com/Ashigo-Research/mhs-ics-skills#readme) - Open Claude agent skills for ICS/OT (ladder logic, Modbus, OPC UA); MHS integration described as in progress.
 - [hardmesh](https://github.com/huzjie/hardmesh#readme) - Unofficial MHS-inspired AI hardware control mesh / lab automation platform (device abstraction, multi-protocol drivers, calibration, safety guardrails, LLM agent control). Apache-2.0. **Not affiliated with or endorsed by Anthropic.**
+- [edge-mhs](https://github.com/fastly/edge-mhs#readme) - Fastly Compute edge security gateway for MHS-over-MCP (safety limits, quotas, audit). **Not affiliated with or endorsed by Anthropic.**
+- [LabBench / Open_Model_Hardware_Standard](https://github.com/Jayasuryamahadevan/Open_Model_Hardware_Standard#readme) - Unofficial LabBench capability model + safety kernel + provenance ledger for lab instruments. **Not affiliated with or endorsed by Anthropic.**
 
 ## Related Ecosystems
 
