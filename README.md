@@ -42,6 +42,7 @@ Projects exploring MHS concepts independently. **Not affiliated with or endorsed
 - [A3S-Lab/MHS](https://github.com/A3S-Lab/MHS#readme) - Deterministic virtual hardware laboratory for testing A3S agents at the MHS boundary. Conveyor workcell simulation with safety interlocks, fault injection, and MCP integration. **Not affiliated with or endorsed by Anthropic.**
 - [edge-mhs](https://github.com/fastly/edge-mhs#readme) - Fastly Compute edge security gateway for MHS-over-MCP (safety limits, quotas, audit). **Not affiliated with or endorsed by Anthropic.**
 - [LabBench / Open_Model_Hardware_Standard](https://github.com/Jayasuryamahadevan/Open_Model_Hardware_Standard#readme) - Unofficial LabBench capability model + safety kernel + provenance ledger for lab instruments. **Not affiliated with or endorsed by Anthropic.**
+- [mhsbench](https://github.com/bluitz/mhsbench#readme) - Driver-enforced safety boundary and human-checkpoint run loop for AI-operated lab instruments (sim). Modeled on Anthropic MHS. **Not affiliated with or endorsed by Anthropic.**
 
 ## Related Ecosystems
 
