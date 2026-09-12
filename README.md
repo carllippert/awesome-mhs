@@ -31,6 +31,7 @@ FastMHS is an independent directory and wrapper effort, not affiliated with Anth
 
 Projects exploring MHS concepts independently. **Not affiliated with or endorsed by Anthropic.**
 
+- [model-hardware-standard](https://github.com/topsun-bot/model-hardware-standard#readme) - Unofficial notes on Anthropic Model Hardware Standard (MHS) — AI agents ↔ physical devices. Chinese+English tracking notes. **Not the official Anthropic spec.**
 - [tongriyaotxt/open-mhs](https://github.com/tongriyaotxt/open-mhs#readme) - Community exploration of MHS concepts.
 - [SCUT-ESA/open-mhs](https://github.com/SCUT-ESA/open-mhs#readme) - Independent MHS-inspired implementation.
 - [Open-MHS](https://github.com/Abenor-Labs/Open-MHS#readme) - Unofficial vendor-neutral driver spec positioned as an open alternative to Anthropic MHS.
