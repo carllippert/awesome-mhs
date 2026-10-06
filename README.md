@@ -45,6 +45,7 @@ Projects exploring MHS concepts independently. **Not affiliated with or endorsed
 - [MHS Bambu Lab printer](https://github.com/zhenwei2972/Model-hardware-standard-Bambu-labs-#readme) - Community MCP server for Bambu Lab A1/P1/X1 printers over LAN with MHS-shaped read/write channels, device descriptors, and driver-enforced safety limits. **Not affiliated with or endorsed by Anthropic.**
 - [LabBench / Open_Model_Hardware_Standard](https://github.com/Jayasuryamahadevan/Open_Model_Hardware_Standard#readme) - Unofficial LabBench capability model + safety kernel + provenance ledger for lab instruments. **Not affiliated with or endorsed by Anthropic.**
 - [mhsbench](https://github.com/bluitz/mhsbench#readme) - Driver-enforced safety boundary and human-checkpoint run loop for AI-operated lab instruments (sim). Modeled on Anthropic MHS. **Not affiliated with or endorsed by Anthropic.**
+- [EVA-Client](https://github.com/Noietch/EVA-CLIENT#readme) - Real-robot deployment, evaluation, and data-collection framework; its EVA-MHS preview (branch dev/mcp_preview) explores an MHS-style agent-to-hardware interface via an MCP service that lets coding agents inspect runtime state, call policy models, and control robots. Apache-2.0. **Not affiliated with or endorsed by Anthropic.**
 
 ## Related Ecosystems
 
