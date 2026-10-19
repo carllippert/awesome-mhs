@@ -46,6 +46,7 @@ Projects exploring MHS concepts independently. **Not affiliated with or endorsed
 - [LabBench / Hardware-context-protocol](https://github.com/Jayasuryamahadevan/Hardware-context-protocol#readme) - Unofficial MCP-based lab-instrument gateway (capability model + safety kernel + provenance ledger); renamed from Open_Model_Hardware_Standard in Oct 2026 and now describes itself as HCP, explicitly not Anthropic's MHS. **Not affiliated with or endorsed by Anthropic.**
 - [mhsbench](https://github.com/bluitz/mhsbench#readme) - Driver-enforced safety boundary and human-checkpoint run loop for AI-operated lab instruments (sim). Modeled on Anthropic MHS. **Not affiliated with or endorsed by Anthropic.**
 - [EVA-Client](https://github.com/Noietch/EVA-CLIENT#readme) - Real-robot deployment, evaluation, and data-collection framework; its EVA-MHS preview (branch dev/mcp_preview) explores an MHS-style agent-to-hardware interface via an MCP service that lets coding agents inspect runtime state, call policy models, and control robots. Apache-2.0. **Not affiliated with or endorsed by Anthropic.**
+- [Qwen-MM-Plugins MHS](https://github.com/QwenLM/Qwen-MM-Plugins#readme) - MHS capability (src/capabilities/mhs, Apache-2.0) in QwenLM's multimodal agent plugins: Model Hardware Standard adapters exposed as MCP tools (mhs_discover, mhs_meta_info, mhs_read, mhs_write, mhs_health_check, mhs_reset) with host-side safety limits, emergency stop, and a bundled mock adapter. **Not affiliated with or endorsed by Anthropic.**
 
 ## Related Ecosystems
 
