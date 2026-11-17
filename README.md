@@ -64,6 +64,7 @@ Adjacent projects with MHS interest or compatibility efforts:
 
 - [Hugging Face LeRobot](https://github.com/huggingface/lerobot#readme) - Robotics framework that has announced MHS interest. No MHS implementation merged as of late August 2026.
 - [Strands Labs robots](https://github.com/strands-labs/robots#readme) - Public robot drivers. MHS support was preview-gated; full in-repo implementation status pending verification.
+- [URML](https://github.com/URML-MARS/URML#readme) - Open language for robot intent (Apache-2.0): spec, reference runtimes, validator, LLM bridge, and conformance suite. MHS-adjacent; integration notes, no claimed compatibility.
 
 ## Contributing
 
